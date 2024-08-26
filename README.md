@@ -1,6 +1,3 @@
-Aqui está o README formatado para o projeto `calculadora-de-imc-treinamento-em-javascript`:
-
-```markdown
 # Calculadora de IMC - Treinamento em JavaScript
 
 ## Descrição
